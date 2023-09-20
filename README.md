@@ -1,2 +1,5 @@
-# 03-Codecademy-Learn-C-Sharp-Substrings-IndexOf
-Codecademy - Learn C# - Substrings &amp; IndexOf
+### Codecademy - Learn C#
+# Substrings & IndexOf
+#### Task description:
+
+Notes from the ```Working with text``` lesson.
